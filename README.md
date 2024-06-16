@@ -15,6 +15,7 @@ Clustering: Identification of cell clusters using algorithms like Louvain or Lei
 Differential Expression: Identification of marker genes for specific clusters or conditions.
 Integration: Combining datasets from different experiments or modalities.
 scVelo
+
 scVelo is a package for RNA velocity estimation, predicting the future state of individual cells based on spliced and unspliced mRNA. Key functionalities include:
 
 RNA Velocity: Prediction of future cell states using dynamic modeling of RNA transcription dynamics.
